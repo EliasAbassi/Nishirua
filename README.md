@@ -1,0 +1,4 @@
+- Hi, I’m Elias Abassi
+- I’m a student learning programmation at Epitech
+- I’m currently learning C
+- 📫 How to reach me elias.abassi@epitech.eu
